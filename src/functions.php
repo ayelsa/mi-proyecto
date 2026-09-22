@@ -1,5 +1,7 @@
 <?php
-function (){
-echo"hello wordl"
+
+function saludo()
+{
+    return "Hola mundo";
 }
 
