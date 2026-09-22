@@ -7,6 +7,6 @@ function saludo()
 
 function saludoPersonalizado()
 {
-    return "Hola desde mi master";
+    return "Hola desde mi funcionalidad y master";
 }
 
